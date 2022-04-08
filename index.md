@@ -2,7 +2,8 @@ __Test__
 * One
 * Two
 
-*Wow!*\n
+*Wow!*
+---
 Here is my website: 
 [Link](https://emubarka.github.io/cse15l-lab-report/index.html)
 
